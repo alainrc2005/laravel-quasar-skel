@@ -7,6 +7,12 @@ Esta pequeña aplicación es un esqueleto para el uso de Laravel + Vue + Quasar 
 
 La iré mejorando para que a los que se sirvan de ella tengan que realmente consumir poco tiempo de integración.
 
+- [PHP Laravel Framework v6.2.x](https://www.laravel.com)
+- [Quasar Framework v1.5.2](https://quasar.dev)
+- [Vue JS Framework v2.6.10](https://vuejs.org)
+- [Material Design Icons v4.6.95](https://materialdesignicons.com)
+- [Axios v0.19](https://github.com/axios/axios)
+
 ## Licencia
 
 Siéntanse libre de utilizar este código como lo deseen. Gracias.

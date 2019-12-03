@@ -13,6 +13,9 @@ La iré mejorando para que a los que se sirvan de ella tengan que realmente cons
 - [Material Design Icons v4.6.95](https://materialdesignicons.com)
 - [Axios v0.19](https://github.com/axios/axios)
 
+## Capturas de Pantalla
+![Captura-1](https://live.staticflickr.com/65535/49160349253_d30602f2f1_h.jpg)  
+
 ## Licencia
 
 Siéntanse libre de utilizar este código como lo deseen. Gracias.
